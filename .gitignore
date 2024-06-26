@@ -1,2 +1,4 @@
 /venv
 .envrc
+/txt_files
+output.csv
